@@ -1,2 +1,20 @@
 
 /** ADD YOUR AWESOME CODES HERE **/
+
+img {
+	border-radius: 10%;
+}
+
+audio {
+	width: 1000px;
+}
+
+tr td.col {
+	background-color: #4169E1;
+	padding: 10px;
+	border-radius: 25px;
+}
+
+tr td.col i {
+	color: white;
+}
